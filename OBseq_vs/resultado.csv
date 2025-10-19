@@ -1,0 +1,11 @@
+,A,B
+0,Sequência,ATCG
+1,Tamanho,4
+2,A,1
+3,T,1
+4,G,1
+5,C,1
+6,Três Primeiras Bases,ATC
+7,Três Últimas Bases,TCG
+8,Sequência Complementar,TAGC
+9,Sequência de RNA,AUCG

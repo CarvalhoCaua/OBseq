@@ -1,0 +1,11 @@
+A	B
+Sequência	ATCG
+Tamanho	4
+A	1
+T	1
+G	1
+C	1
+Três Primeiras Bases	ATC
+Três Últimas Bases	TCG
+Sequência Complementar	TAGC
+Sequência de RNA	AUCG
