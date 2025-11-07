@@ -36,3 +36,4 @@ data = {
 resultado = pd.DataFrame(data)
 resultado.to_csv('resultado.csv')
 resultado.to_csv('resultado.txt', sep='\t', index=False)
+ 
