@@ -1,6 +1,7 @@
 import pandas as pd
 
-seq = "ATCG"
+# seq = "ATCG"
+seq = str(input("Sequência: "))
 if seq[-4:] == ".txt":
     seq = open(seq)
     seq = seq.read()
@@ -36,4 +37,4 @@ data = {
 resultado = pd.DataFrame(data)
 resultado.to_csv('resultado.csv')
 resultado.to_csv('resultado.txt', sep='\t', index=False)
- 
+print(resultado)
