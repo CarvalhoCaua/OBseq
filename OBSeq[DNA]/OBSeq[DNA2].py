@@ -1,6 +1,6 @@
 import pandas as pd
 
-seq = "ATCG"
+seq = str(input('Sequência: '))
 
 seqcomplementar = ""
 for i in seq:

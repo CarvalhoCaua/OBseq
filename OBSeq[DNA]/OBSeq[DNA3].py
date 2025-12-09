@@ -1,6 +1,8 @@
 import pandas as pd
 
-seq = "ATCG"
+
+seq = open("SRY.txt")
+seq = seq.read()
 
 seqcomplementar = ""
 for i in seq:
